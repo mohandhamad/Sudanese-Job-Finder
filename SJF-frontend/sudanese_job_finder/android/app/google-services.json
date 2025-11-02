@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652077883864",
+    "project_id": "sudanesejobfinder",
+    "storage_bucket": "sudanesejobfinder.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652077883864:android:21a33e095733851b9912ad",
+        "android_client_info": {
+          "package_name": "com.example.sudanese_job_finder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLOo_bWxtTxDP3pLUgCHxDflPwjLgd-Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
