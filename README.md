@@ -6,6 +6,3 @@ Graduation project connecting Sudanese job seekers with employers.
 - **frontend/** - Flutter mobile application
 - **backend/** - Django REST API
 
-## Usage
-Instructions on how to run the project locally...
-
