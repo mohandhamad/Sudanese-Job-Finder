@@ -1,2 +1,11 @@
-# Sudanese-Job-Finder
-Graduation project connecting Sudanese job seekers and employers
+# Sudanese-Job-Finder (SJF)
+
+Graduation project connecting Sudanese job seekers with employers.
+
+## Project Structure
+- **frontend/** - Flutter mobile application
+- **backend/** - Django REST API
+
+## Usage
+Instructions on how to run the project locally...
+
